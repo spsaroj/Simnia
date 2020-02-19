@@ -1,4 +1,4 @@
-# Building your Shell, part 3 
+# Building your Shell
 
 ## 44-550 Operating Systems
 
